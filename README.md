@@ -1,0 +1,1 @@
+Aplicação simples utilizando React.js + SCSS
